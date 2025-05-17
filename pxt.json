@@ -1,5 +1,6 @@
 {
     "name": "INA219拡張機能作成",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
